@@ -2,5 +2,9 @@
     {
         "merged": "/Users/simon/Downloads/BluetoothDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/Users/simon/Downloads/BluetoothDemo2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/simon/Asu/BluetoothGoogleDemo/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/simon/Asu/BluetoothGoogleDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
     }
 ]
