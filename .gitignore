@@ -33,3 +33,5 @@ app/build/intermediates/transforms/mergeJavaRes/
 app/build/intermediates/transforms/mergeJniLibs/
 app/build/intermediates/transforms/stripDebugSymbol/
 app/build/tmp/
+/.idea/misc.xml
+/app/app.iml
