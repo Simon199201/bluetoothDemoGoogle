@@ -5,3 +5,4 @@
 /BluetoothGoogleDemo.iml
 /app/app.iml
 app/build
+.gradle/
